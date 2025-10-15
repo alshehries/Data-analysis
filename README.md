@@ -39,11 +39,16 @@ The goal was to examine **daily variability**, test for **normality**, assess **
 
 ## Radiation Graphs
 
-![Highest Read](images/Highest_read.png)
-![Lowest Read](images/Lowest_read.png)
-![Total Reads](images/Total_reads.png)
-![Reads Average](images/Reads_average.png)
-![Line Graph](images/Line_graph.png)
+Radiation Report/
+│
+├─ README.md
+└─ images/
+     ├─ Highest_read.png
+     ├─ Lowest_read.png
+     ├─ Total_reads.png
+     ├─ Reads_average.png
+     └─ Line_graph.png
+
 
 > **Conclusion:**  
 > Radiation readings fluctuated slightly across the month but remained within a narrow, stable range.  
