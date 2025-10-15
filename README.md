@@ -38,17 +38,11 @@ The goal was to examine **daily variability**, test for **normality**, assess **
 | Trend Summary | Fluctuating but stable | No clear upward or downward shift |
 
 ## Radiation Graphs
-
-Radiation Report/
-│
-├─ README.md
-└─ images/
-     ├─ Highest_read.png
-     ├─ Lowest_read.png
-     ├─ Total_reads.png
-     ├─ Reads_average.png
-     └─ Line_graph.png
-
+![Highest Read](../Radiation-Report/Highest_read.png)
+![Lowest Read](../Radiation-Report/Lowest_read.png)
+![Total Reads](../Radiation-Report/Total_reads.png)
+![Reads Average](../Radiation-Report/Reads_average.png)
+![Line Graph](../Radiation-Report/Line_graph.png)
 
 > **Conclusion:**  
 > Radiation readings fluctuated slightly across the month but remained within a narrow, stable range.  
