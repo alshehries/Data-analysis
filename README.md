@@ -37,6 +37,14 @@ The goal was to examine **daily variability**, test for **normality**, assess **
 | Range | 14,900 – 16,150 | Stable radiation levels |
 | Trend Summary | Fluctuating but stable | No clear upward or downward shift |
 
+## Radiation Graphs
+
+![Highest Read](images/Highest_read.png)
+![Lowest Read](images/Lowest_read.png)
+![Total Reads](images/Total_reads.png)
+![Reads Average](images/Reads_average.png)
+![Line Graph](images/Line_graph.png)
+
 > **Conclusion:**  
 > Radiation readings fluctuated slightly across the month but remained within a narrow, stable range.  
 > While a weak positive trend was detected, it was **not statistically significant**, suggesting **no clear evidence of an overall increase or decrease** in radiation levels during the study period.
